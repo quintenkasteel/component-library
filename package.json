@@ -49,7 +49,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "css-loader": "^3.5.3",
     "html-webpack-plugin": "^4.2.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prettier": "^1.19.1",
     "sass": "^1.26.5",
     "sass-extract": "^2.1.0",
